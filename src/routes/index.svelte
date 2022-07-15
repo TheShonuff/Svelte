@@ -38,7 +38,7 @@
 	</label>
 
 	<p>{a} + {b} = {a + b}</p>
-	<p>pinko 2</p>
+	<p>pinko 22</p>
 </div>
 
 <style>
